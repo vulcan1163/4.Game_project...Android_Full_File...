@@ -1,0 +1,3 @@
+# 4.Game_project...Android_Full_File...
+    -- 2015년 9월 01일 ~ 12월 20일까지 진행한 2인 팀 프로젝트 입니다. 
+    -- 이것은 안드로이드 전체 파일을 포함하고 있으며 src/com/hbe/lemondash에서 코드를 보실수 있습니다. 
